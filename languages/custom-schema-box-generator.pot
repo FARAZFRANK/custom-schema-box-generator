@@ -1,0 +1,360 @@
+# Copyright (C) 2025 Custom Schema Box Generator
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Schema Box Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-schema-box-generator\n"
+"POT-Creation-Date: 2025-01-15 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: custom-schema-generator.php:65
+msgid "Custom Schema Box Generator"
+msgstr ""
+
+#: custom-schema-generator.php:66
+msgid "Schema Box Generator"
+msgstr ""
+
+#: custom-schema-generator.php:222
+msgid "Settings"
+msgstr ""
+
+#: custom-schema-generator.php:225
+msgid "Schema Templates"
+msgstr ""
+
+#: custom-schema-generator.php:228
+msgid "How to Use"
+msgstr ""
+
+#: custom-schema-generator.php:231
+msgid "FAQ"
+msgstr ""
+
+#: custom-schema-generator.php:234
+msgid "❤️ Donate"
+msgstr ""
+
+#: custom-schema-generator.php:287
+msgid "🔍 Debug Information"
+msgstr ""
+
+#: custom-schema-generator.php:290
+msgid "Built-in Post Types:"
+msgstr ""
+
+#: custom-schema-generator.php:292
+msgid "Pages"
+msgstr ""
+
+#: custom-schema-generator.php:292
+msgid "✓ Detected"
+msgstr ""
+
+#: custom-schema-generator.php:292
+msgid "✗ Not Found"
+msgstr ""
+
+#: custom-schema-generator.php:293
+msgid "Posts"
+msgstr ""
+
+#: custom-schema-generator.php:298
+msgid "Custom Post Types Detected:"
+msgstr ""
+
+#: custom-schema-generator.php:320
+msgid "Pages Section"
+msgstr ""
+
+#: custom-schema-generator.php:322
+msgid "Enable schema for Pages?"
+msgstr ""
+
+#: custom-schema-generator.php:325
+msgid "Yes"
+msgstr ""
+
+#: custom-schema-generator.php:332
+msgid "No"
+msgstr ""
+
+#: custom-schema-generator.php:342
+msgid "Select Individual Pages:"
+msgstr ""
+
+#: custom-schema-generator.php:344
+msgid "Select All"
+msgstr ""
+
+#: custom-schema-generator.php:345
+msgid "Deselect All"
+msgstr ""
+
+#: custom-schema-generator.php:381
+msgid "(no title)"
+msgstr ""
+
+#: custom-schema-generator.php:395
+msgid "Posts Section"
+msgstr ""
+
+#: custom-schema-generator.php:397
+msgid "Enable schema for Posts?"
+msgstr ""
+
+#: custom-schema-generator.php:417
+msgid "Select Individual Posts:"
+msgstr ""
+
+#: custom-schema-generator.php:470
+msgid "Enable schema for"
+msgstr ""
+
+#: custom-schema-generator.php:492
+msgid "Select Individual"
+msgstr ""
+
+#: custom-schema-generator.php:530
+msgid "Save Settings"
+msgstr ""
+
+#: custom-schema-generator.php:540
+msgid "Schema Templates Library"
+msgstr ""
+
+#: custom-schema-generator.php:541
+msgid "Browse and copy pre-built schema templates for common use cases."
+msgstr ""
+
+#: custom-schema-generator.php:560
+msgid "Copy Template"
+msgstr ""
+
+#: custom-schema-generator.php:563
+msgid "View Code"
+msgstr ""
+
+#: custom-schema-generator.php:580
+msgid "Close"
+msgstr ""
+
+#: custom-schema-generator.php:597
+msgid "How to Use Custom Schema Box Generator"
+msgstr ""
+
+#: custom-schema-generator.php:600
+msgid "Step 1: Enable Schema for Post Types"
+msgstr ""
+
+#: custom-schema-generator.php:928
+msgid "Support Custom Schema Box Generator"
+msgstr ""
+
+#: custom-schema-generator.php:929
+msgid "Help keep this plugin free and actively maintained!"
+msgstr ""
+
+#: custom-schema-generator.php:936
+msgid "Thank you for using"
+msgstr ""
+
+#: custom-schema-generator.php:1001
+msgid "Whether you donate or not, thank you for using"
+msgstr ""
+
+#: custom-schema-generator.php:1002
+msgid "Your support—in any form—keeps me motivated to continue developing and improving this plugin."
+msgstr ""
+
+#: custom-schema-generator.php:1003
+msgid "If you have any questions, suggestions, or just want to say hi, feel free to reach out!"
+msgstr ""
+
+#: custom-schema-generator.php:1004
+msgid "Happy Schema Building! 🚀"
+msgstr ""
+
+#: custom-schema-generator.php:1066
+msgid "Article"
+msgstr ""
+
+#: custom-schema-generator.php:1068
+msgid "For blog posts, news articles, and editorial content."
+msgstr ""
+
+#: custom-schema-generator.php:1092
+msgid "Product"
+msgstr ""
+
+#: custom-schema-generator.php:1094
+msgid "For e-commerce product pages with pricing and availability."
+msgstr ""
+
+#: custom-schema-generator.php:1120
+msgid "Local Business"
+msgstr ""
+
+#: custom-schema-generator.php:1122
+msgid "For physical business locations with address and contact info."
+msgstr ""
+
+#: custom-schema-generator.php:1154
+msgid "FAQ"
+msgstr ""
+
+#: custom-schema-generator.php:1156
+msgid "For FAQ pages with questions and answers."
+msgstr ""
+
+#: custom-schema-generator.php:1180
+msgid "How-To"
+msgstr ""
+
+#: custom-schema-generator.php:1182
+msgid "For step-by-step guides and tutorials."
+msgstr ""
+
+#: custom-schema-generator.php:1214
+msgid "Recipe"
+msgstr ""
+
+#: custom-schema-generator.php:1216
+msgid "For cooking recipes with ingredients and instructions."
+msgstr ""
+
+#: custom-schema-generator.php:1244
+msgid "Event"
+msgstr ""
+
+#: custom-schema-generator.php:1246
+msgid "For events, conferences, and gatherings."
+msgstr ""
+
+#: custom-schema-generator.php:1270
+msgid "Video"
+msgstr ""
+
+#: custom-schema-generator.php:1272
+msgid "For video content with duration and thumbnail."
+msgstr ""
+
+#: custom-schema-generator.php:1292
+msgid "Organization"
+msgstr ""
+
+#: custom-schema-generator.php:1294
+msgid "For company and organization information."
+msgstr ""
+
+#: custom-schema-generator.php:1310
+msgid "Breadcrumb"
+msgstr ""
+
+#: custom-schema-generator.php:1312
+msgid "For navigation breadcrumbs."
+msgstr ""
+
+#: custom-schema-generator.php:1338
+msgid "Review"
+msgstr ""
+
+#: custom-schema-generator.php:1340
+msgid "For product or service reviews with ratings."
+msgstr ""
+
+#: custom-schema-generator.php:1364
+msgid "Course"
+msgstr ""
+
+#: custom-schema-generator.php:1366
+msgid "For online courses and educational content."
+msgstr ""
+
+#: custom-schema-generator.php:1390
+msgid "Job Posting"
+msgstr ""
+
+#: custom-schema-generator.php:1392
+msgid "For job listings and career opportunities."
+msgstr ""
+
+#: custom-schema-generator.php:1428
+msgid "Book"
+msgstr ""
+
+#: custom-schema-generator.php:1430
+msgid "For books, ebooks, and publications."
+msgstr ""
+
+#: custom-schema-generator.php:1452
+msgid "Software Application"
+msgstr ""
+
+#: custom-schema-generator.php:1454
+msgid "For software, apps, and digital tools."
+msgstr ""
+
+#: custom-schema-generator.php:1478
+msgid "Restaurant"
+msgstr ""
+
+#: custom-schema-generator.php:1480
+msgid "For restaurants, cafes, and dining establishments."
+msgstr ""
+
+#: custom-schema-generator.php:1504
+msgid "Music Recording"
+msgstr ""
+
+#: custom-schema-generator.php:1506
+msgid "For songs, albums, and music content."
+msgstr ""
+
+#: custom-schema-generator.php:1526
+msgid "Podcast"
+msgstr ""
+
+#: custom-schema-generator.php:1528
+msgid "For podcast episodes and audio content."
+msgstr ""
+
+#: custom-schema-generator.php:1550
+msgid "News Article"
+msgstr ""
+
+#: custom-schema-generator.php:1552
+msgid "For news articles and press releases."
+msgstr ""
+
+#: custom-schema-generator.php:1576
+msgid "Medical Condition"
+msgstr ""
+
+#: custom-schema-generator.php:1578
+msgid "For medical conditions and health information."
+msgstr ""
+
+#: custom-schema-generator.php:1650
+msgid "Custom Schema (JSON-LD)"
+msgstr ""
+
+#: custom-schema-generator.php:1680
+msgid "Enter your JSON-LD schema code below:"
+msgstr ""
+
+#: custom-schema-generator.php:1690
+msgid "Invalid JSON format. Please check your syntax."
+msgstr ""
+
+#: custom-schema-generator.php:1691
+msgid "Schema saved successfully!"
+msgstr ""
+

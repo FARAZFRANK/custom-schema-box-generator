@@ -1,0 +1,101 @@
+# WordPress Plugin - Custom Schema Box Generator
+# .gitignore file
+
+# WordPress Core Files
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/cache/*
+wp-content/backups/
+
+# WordPress Specific
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.settings/
+.buildpath
+nbproject/
+
+# Node.js (if using npm/yarn for development)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Composer (if using PHP dependencies)
+vendor/
+composer.lock
+
+# Build and Compiled Files
+*.min.js
+*.min.css
+*.map
+dist/
+build/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Database Files
+*.sql
+*.sqlite
+*.db
+
+# Compressed Files (optional - uncomment if needed)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Plugin Specific
+# Add any plugin-specific files you want to ignore
+
+# Development and Testing
+tests/coverage/
+phpunit.xml
+.phpunit.result.cache
+
+# Documentation (if auto-generated)
+# docs/
+
+# Logs
+error_log
+debug.log
+php_error.log
+
