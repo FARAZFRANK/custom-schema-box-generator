@@ -1,4 +1,4 @@
-# Custom Schema Box Generator
+# Custom Schema Box Generator WordPress Plugin
 
 ![Version](https://img.shields.io/badge/version-2.2.0-blue.svg)
 ![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-brightgreen.svg)
